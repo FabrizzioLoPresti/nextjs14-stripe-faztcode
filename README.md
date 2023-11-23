@@ -33,6 +33,8 @@ Nextjs 14 Project using:
   - Stripe Checkout API
   - Stripe Customer Portal
   - Stripe Webhooks
+  - Stripe CLI
+- Firebase
 - Supabase
 
 ### Links Projects
